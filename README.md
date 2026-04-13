@@ -30,7 +30,7 @@
 ## 🌐 Portfolio
 
 <p align="left">
-  <a href="YOUR_PORTFOLIO_LINK">
+  <a href="https://agent-69dca8499cb38b11f9873a97--akhtarz.netlify.app/">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-black?style=for-the-badge&logo=firefox">
   </a>
 </p>
