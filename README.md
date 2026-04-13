@@ -12,50 +12,136 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&duration=3000&pause=500&color=00B4D8&center=true&vCenter=true&width=600&lines=AI+Engineer;Computer+Vision+Architect;LLM+Specialist;Multi-Agent+Systems+Builder;Automation+Expert" alt="Typing Animation"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Python+%7C+TensorFlow+%7C+PyTorch+%7C+OpenCV;YOLO+%7C+RF-DETR+%7C+LLMs+%7C+CrewAI;n8n+%7C+Flowise+%7C+MySQL+%7C+SQL+Server" alt="Tech Stack"/>
-  </a>
-</div>
-
-<br/>
-
-<!-- Animated Grid -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&duration=3000&pause=500&color=00B4D8&center=true&vCenter=true&width=600&lines=AI+Engineer;Computer+Vision+Architect;LLM+Specialist;Multi-Agent+Systems+Builder;Automation+Expert" />
 </div>
 
 ---
 
-### 🎯 **Mission Control**
+## 🧠 About Me
 
-```python
-#!/usr/bin/env python3
+- 🎯 AI Engineer building real-world intelligent systems
+- 👁️ Computer Vision & Object Detection specialist
+- 🤖 LLMs, Chatbots & Multi-Agent Systems developer
+- ⚡ Automation expert (n8n, Flowise)
+- 🏏 Cricketer & 🏋️ Gym lover
 
-class AIEngineer:
-    def __init__(self):
-        self.name = "Akhtar Ahmed Zaib Khan"
-        self.role = "AI Engineer & Computer Vision Specialist"
-        self.location = "Karachi, Pakistan"
-        self.vision = "Building real-world AI systems that scale"
-        
-    def current_mission(self):
-        return {
-            "focus": ["Computer Vision", "LLM Applications", "Multi-Agent Systems"],
-            "tools": ["YOLO", "RF-DETR", "CrewAI", "n8n", "Flowise"],
-            "stack": "Python | OpenCV | TensorFlow | PyTorch | MySQL"
-        }
-    
-    def daily_drivers(self):
-        return ["Optimizing detection models", "Building agents", "Automating workflows"]
-    
-    def status(self):
-        return "🟢 Actively building & deploying AI solutions"
+---
 
-me = AIEngineer()
-print(me.status())
+## 🌐 Portfolio
+
+<p align="left">
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-black?style=for-the-badge&logo=firefox">
+  </a>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+
+  <a href="mailto:akhtarzaib7755@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
+  </a>
+
+  <a href="YOUR_INSTAGRAM">
+    <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" />
+  </a>
+</p>
+
+---
+
+## ⚡ Tech Stack & Skills
+
+### 🧑‍💻 Programming & Core
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,mysql" />
+</p>
+
+---
+
+### 🤖 AI / Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLMs-orange?style=for-the-badge" />
+</p>
+
+---
+
+### 👁️ Computer Vision Tools
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv" />
+  <img src="https://img.shields.io/badge/YOLO-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RF--DETR-darkgreen?style=for-the-badge" />
+</p>
+
+---
+
+### ⚙️ Automation & AI Tools
+<p>
+  <img src="https://img.shields.io/badge/n8n-red?style=for-the-badge&logo=n8n" />
+  <img src="https://img.shields.io/badge/Flowise-blue?style=for-the-badge" />
+</p>
+
+---
+
+### 🗄️ Databases
+<p>
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql" />
+  <img src="https://img.shields.io/badge/SQL%20Server-red?style=for-the-badge&logo=microsoftsqlserver" />
+</p>
+
+---
+
+## 🚧 Currently Working On
+
+- 🤖 AI-powered applications using LLMs
+- 🧠 Multi-agent systems (CrewAI-based)
+- 👁️ Real-time computer vision pipelines
+- ⚙️ Automation using n8n & Flowise
+- 📊 Model optimization & deployment
+
+---
+
+## 📜 Certifications
+
+<p>
+<a href="https://docs.uniathena.com/prod/course/certificate/323_1775067915_certificate.jpg">
+  <img src="https://img.shields.io/badge/Python-Fundamentals-blue?style=for-the-badge&logo=python">
+</a>
+
+<a href="https://docs.uniathena.com/prod/course/certificate/324_1775074864_certificate.jpg">
+  <img src="https://img.shields.io/badge/Machine%20Learning-green?style=for-the-badge">
+</a>
+
+<a href="https://docs.uniathena.com/prod/course/certificate/894_1775074846_certificate.jpg">
+  <img src="https://img.shields.io/badge/AI-Certification-purple?style=for-the-badge">
+</a>
+
+<a href="https://verify.skilljar.com/c/o3kyg3ppoukg">
+  <img src="https://img.shields.io/badge/Claude%20101-orange?style=for-the-badge">
+</a>
+
+<a href="https://verify.skilljar.com/c/vddvqp7q25cm">
+  <img src="https://img.shields.io/badge/Agent%20Skills-red?style=for-the-badge">
+</a>
+</p>
+
+---
+
+## 💻 Programming Languages & Skills Level
+
+🐍 Python        ████████████████████ 90%  
+🌐 HTML          ████████████████░░░░ 70%  
+🎨 CSS           ██████████████░░░░░░ 60%  
+🐘 PHP           ████████░░░░░░░░░░░░ 40%  
+⚛️ React         ██████████░░░░░░░░░░ 60%  
+🚀 FastAPI       ████████████████████ 90%  
+🧩 Laravel       ██████████░░░░░░░░░░ 60%  
+🗄️ SQL           ████████████████░░░░ 80%
