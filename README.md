@@ -1,81 +1,61 @@
-<!--
-**AkhtarZaib/AkhtarZaib** - Professional AI Engineer Profile
+<!---
+██╗░░░██╗██╗███████╗██╗░█████╗░███╗░░██╗
+██║░░░██║██║██╔════╝██║██╔══██╗████╗░██║
+╚██╗░██╔╝██║█████╗░░██║██║░░██║██╔██╗██║
+░╚████╔╝░██║██╔══╝░░██║██║░░██║██║╚████║
+░░╚██╔╝░░██║██║░░░░░██║╚█████╔╝██║░╚███║
+░░░╚═╝░░░╚═╝╚═╝░░░░░╚═╝░╚════╝░╚═╝░░╚══╝
 -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=38BDF8&center=true&vCenter=true&width=500&lines=Akhtar+Ahmed+Zaib+Khan;AI+Engineer;ML+%26+Deep+Learning+Specialist;Computer+Vision+Developer;LLM+Practitioner" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4D8,100:03045E&height=200&section=header&text=Akhtar%20Zaib%20Khan&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=24&duration=3000&pause=500&color=00B4D8&center=true&vCenter=true&width=600&lines=AI+Engineer;Computer+Vision+Architect;LLM+Specialist;Multi-Agent+Systems+Builder;Automation+Expert" alt="Typing Animation"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2000&pause=1000&color=00B4D8&center=true&vCenter=true&width=435&lines=Python+%7C+TensorFlow+%7C+PyTorch+%7C+OpenCV;YOLO+%7C+RF-DETR+%7C+LLMs+%7C+CrewAI;n8n+%7C+Flowise+%7C+MySQL+%7C+SQL+Server" alt="Tech Stack"/>
+  </a>
 </div>
 
 <br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AkhtarZaib&color=0e75b6&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/AkhtarZaib?style=flat-square&logo=github" />
-</p>
-
----
-
-### ⚡ Core Competencies
-
-| Area | Technologies |
-|------|--------------|
-| **Vision & Detection** | OpenCV, YOLO, RF-DETR |
-| **Language Models** | LLMs, CrewAI, Multi-Agent Systems |
-| **Automation** | n8n, Flowise |
-| **Backend & DB** | Python, MySQL, SQL Server |
-
----
-
-### 🔭 Current Focus
-
-- Building production-grade computer vision pipelines
-- Developing intelligent multi-agent systems
-- Automating workflows with n8n and Flowise
-
----
-
-### 📌 Featured Work
-
-- **OT Safety Detection** — RF-DETR model for medical safety compliance (mask/glove/hairnet detection)
-- **Semantic Document Management** — RAG-powered search + chat interface using Python & React
-
----
-
-### 📈 Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AkhtarZaib&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&icon_color=38BDF8&title_color=38BDF8" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AkhtarZaib&theme=dark&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkhtarZaib&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38BDF8" width="45%" />
-</p>
-
----
-
-### 🤝 Let's Connect
-
-<a href="mailto:akhtarzaib7755@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/akhtarzaib">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-
----
-
+<!-- Animated Grid -->
 <div align="center">
-  <sub>⚡ Building AI that works in the real world</sub>
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
+
+---
+
+### 🎯 **Mission Control**
+
+```python
+#!/usr/bin/env python3
+
+class AIEngineer:
+    def __init__(self):
+        self.name = "Akhtar Ahmed Zaib Khan"
+        self.role = "AI Engineer & Computer Vision Specialist"
+        self.location = "Karachi, Pakistan"
+        self.vision = "Building real-world AI systems that scale"
+        
+    def current_mission(self):
+        return {
+            "focus": ["Computer Vision", "LLM Applications", "Multi-Agent Systems"],
+            "tools": ["YOLO", "RF-DETR", "CrewAI", "n8n", "Flowise"],
+            "stack": "Python | OpenCV | TensorFlow | PyTorch | MySQL"
+        }
+    
+    def daily_drivers(self):
+        return ["Optimizing detection models", "Building agents", "Automating workflows"]
+    
+    def status(self):
+        return "🟢 Actively building & deploying AI solutions"
+
+me = AIEngineer()
+print(me.status())
